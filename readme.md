@@ -16,4 +16,11 @@ A web application built with **Python** and **Streamlit** that brings back the g
 * **Persistent High Scores:** Tracks your best records locally using browser storage.
 
 ---
+## 🛠️ Prerequisites & Installation
 
+Make sure you have Python installed on your system. 
+
+1. Clone or download this repository.
+2. Install the required Python dependencies:
+   ```bash
+   pip install -r requirements.txt
